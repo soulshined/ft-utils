@@ -1,0 +1,10 @@
+{
+    "workbench.colorCustomizations": {},
+    "php-built-in-server.server": {
+        "headless": {
+            "enabled": true,
+            "clearTerminalOnSave": true
+        },
+        "root": ".dev/index.php"
+    }
+}
